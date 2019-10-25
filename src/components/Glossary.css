@@ -1,0 +1,10 @@
+.addButton {
+    color: rgb(36, 0, 0);
+    size: 80px;
+}
+
+.textField {
+    color: rgb(187, 187, 187);
+    background-color: rgba(65, 0, 0, 0.555);
+    font-size: 25px;
+}
